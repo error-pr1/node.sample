@@ -1,0 +1,24 @@
+{
+  "name": "node.sample",
+  "version": "0.0.1",
+  "description": "Node.js Sample",
+  "keywords": [
+    "node",
+    "sample"
+  ],
+  "homepage": "https://github.com/error-pr1/node.sample#readme",
+  "bugs": {
+    "url": "https://github.com/error-pr1/node.sample/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/error-pr1/node.sample.git"
+  },
+  "license": "MIT",
+  "author": "Error Prone",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
