@@ -20,7 +20,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
-    "build": "tsc && node dist/example.js"
+    "build": "tsc && node dist/index.js"
   },
   "devDependencies": {
     "@tsconfig/node24": "^24.0.1",
