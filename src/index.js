@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import http from 'http';
 
 const hostname = '127.0.0.1';

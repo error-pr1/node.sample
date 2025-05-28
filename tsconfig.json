@@ -3,6 +3,7 @@
   "compilerOptions": {
     "outDir": "dist",
     "allowJs": true, // This is needed if you migrate your project
+    "checkJs": true, // use for checking js before migrating
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
